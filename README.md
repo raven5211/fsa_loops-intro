@@ -10,13 +10,10 @@
 
 1. Choose one person in your group to share their screen. They will be in charge of typing
    your answers.
-    * answer: 
 3. Select another person in the group to be responsible for sharing your answers with
    the class later on.
-    * answer: 
 4. As a team, read each question out loud and reach a consensus on the answer before
    moving to the next question.
-    * answer: 
 
 ## Reassign variable values
 
