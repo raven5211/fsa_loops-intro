@@ -1,6 +1,6 @@
 ## important links:
 
-[source repo](https://github.com/FullstackAcademy/tdd-loops.git)
+[source repo](https://github.com/FullstackAcademy/loops-intro.git)
 
 ---
 
